@@ -745,7 +745,7 @@
             "variant": "",
             "arch": "Intel & Apple Silicon",
             "provider": "Apple.com",
-            "url": "https://swcdn.apple.com/content/downloads/37/33/140-93587-A_GRFFH93NOL/f944yaqo1cjhh2m0kxrl0zhcpg9yb9qphv/InstallAssistant.pkg"
+            "url": "https://swcdn.apple.com/content/downloads/51/17/142-28081-A_616Q67X32N/5atqz1miz61kmrim7fwkn7yi62xuzzcc0s/InstallAssistant.pkg"
         }],
         "kind": "choice"
     }]
@@ -757,10 +757,10 @@
     "editions": [{
         "edition": null,
         "downloads": [{
-            "variant": "Beta 8",
+            "variant": "",
             "arch": "Apple Silicon",
             "provider": "Apple.com",
-            "url": "https://swcdn.apple.com/content/downloads/55/45/142-14110-A_H34ULMV1OS/wd7kahgtrwg0b6w6recw2eb9jl9b0zaogg/InstallAssistant.pkg"
+            "url": "https://swcdn.apple.com/content/downloads/04/52/142-27367-A_W3GHHHB05E/4kfhtjlg2i1qcv0obh62hlfcambu6kv15n/InstallAssistant.pkg"
         }],
         "kind": "choice"
     }]
