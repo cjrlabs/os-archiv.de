@@ -712,7 +712,7 @@
 }, {
     "family": "mac",
     "os": "macOS 15 Sequoia",
-    "hint": "2 Quellen",
+    "hint": "3 Quellen",
     "multiEdition": false,
     "editions": [{
         "edition": null,
@@ -726,6 +726,11 @@
             "arch": "Intel & Apple Silicon",
             "provider": "App Store",
             "url": "macappstores://apps.apple.com/app/macos-sequoia/id6596773750?mt=12"
+        },{
+            "variant": "",
+            "arch": "Intel & Apple Silicon",
+            "provider": "Apple.com",
+            "url": "https://swcdn.apple.com/content/downloads/31/10/142-50013-A_0GMSQ8FVZX/kpmee5466o6dmojjdqw34x6ckj6b332of6/InstallAssistant.pkg"
         }],
         "kind": "choice"
     }]
@@ -745,7 +750,7 @@
             "variant": "",
             "arch": "Intel & Apple Silicon",
             "provider": "Apple.com",
-            "url": "https://swcdn.apple.com/content/downloads/51/17/142-28081-A_616Q67X32N/5atqz1miz61kmrim7fwkn7yi62xuzzcc0s/InstallAssistant.pkg"
+            "url": "https://swcdn.apple.com/content/downloads/38/31/142-50020-A_7SHECS0ACF/ncy3h2j7nwse4aoz0rjot59fp0z9s4yf3o/InstallAssistant.pkg"
         }],
         "kind": "choice"
     }]
@@ -760,7 +765,7 @@
             "variant": "",
             "arch": "Apple Silicon",
             "provider": "Apple.com",
-            "url": "https://swcdn.apple.com/content/downloads/04/52/142-27367-A_W3GHHHB05E/4kfhtjlg2i1qcv0obh62hlfcambu6kv15n/InstallAssistant.pkg"
+            "url": "https://swcdn.apple.com/content/downloads/52/46/142-50055-A_O5SYDX5BLY/c72meffi1hj2eaf9fgtakkgwds73ujrr5u/InstallAssistant.pkg"
         }],
         "kind": "choice"
     }]
